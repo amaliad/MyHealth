@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042205415273",
+    "firebase_url": "https://plum-d0107.firebaseio.com",
+    "project_id": "plum-d0107",
+    "storage_bucket": "plum-d0107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042205415273:android:85106fc0e5dc6acc",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project.xiirpl204142434.myhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042205415273-f4ajshhmsf74aq15361qf0nf7nqc2m2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.project.xiirpl204142434.myhealth",
+            "certificate_hash": "C67DE89E62F2A0EED1BF8E5F337FAC96E4EA6436"
+          }
+        },
+        {
+          "client_id": "1042205415273-rbnrcu9o0kmt1diq1230penallbil7g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFSAhpPCDfBUchC_SS2GwiWT9DJZ8ejZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042205415273-rbnrcu9o0kmt1diq1230penallbil7g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
